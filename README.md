@@ -23,6 +23,6 @@ $ sudo gem install telegram-bot-ruby
 <h2>Help</h2>
 Se ti serve aiuto puoi andare a guardare la guida ufficiale di <a href="https://core.telegram.org/bots/api/">Telegram API</a><br>
 Qui trovi la repository git da dove vengono le API <a href="https://github.com/atipugin/telegram-bot-ruby">telegram-api-ruby</a><br>
-In caso di dubbi e per prendere spunto possiamo attingere a questa repository ( <a href="https://github.com/crilose/spericolatoBot">spericolatoBot</a> ) oggerta gentilmente da:<br>
+In caso di dubbi e per prendere spunto possiamo attingere a questa repository ( <a href="https://github.com/crilose/spericolatoBot">spericolatoBot</a> ) offerta gentilmente da:<br>
 <b><a href="https://github.com/crilose">Crilose</a><b><br>
 <a href="https://github.com/crilose"><img src="https://avatars3.githubusercontent.com/u/14825081?v=3&s=400" width="60px"></a>
