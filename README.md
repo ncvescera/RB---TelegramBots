@@ -15,6 +15,11 @@ Per installare le API di telegram ti basta utilizzare il comando gem, che verrà
 ```
 $ gem install telegram-bot-ruby
 ```
+Se riscontri errori prova con i permessi root digitando:
+```
+$ sudo gem install telegram-bot-ruby
+```
+
 <h2>Help</h2>
 Se ti serve aiuto puoi andare a guardare la guida ufficiale di <a href="https://core.telegram.org/bots/api/">Telegram API</a><br>
 Qui trovi la repository git da dove vengono le API <a href="https://github.com/atipugin/telegram-bot-ruby">telegram-api-ruby</a><br>
